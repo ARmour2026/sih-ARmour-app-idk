@@ -1,0 +1,6 @@
+{
+  "name": "ARmour - Jetpack Compose Studio",
+  "description": "Production-ready Kotlin Jetpack Compose code generator and interactive preview for ARmour industrial safety training screens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
